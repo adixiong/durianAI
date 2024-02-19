@@ -1,0 +1,5 @@
+train: Durain_annotated_dataset/train/images
+val: Durain_annotated_dataset/val/images
+
+nc: 3
+names: ['pale_yellow_durain','bright_yellow_durain','light_red_durain']

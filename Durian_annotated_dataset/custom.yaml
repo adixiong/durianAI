@@ -1,0 +1,5 @@
+train: Durian_annotated_dataset/train/images
+val: Durian_annotated_dataset/val/images
+
+nc: 3
+names: ['sultan_king_durian','musang_king_durian','red_prawn_durian']
